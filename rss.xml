@@ -14,5 +14,13 @@
       <description>Psalm 10 audio recording</description>
     </item>
 
+    <item>
+      <title>Pascha Doxa</title>
+      <enclosure url="https://dl.dropboxusercontent.com/s/ywuwdz3h42f5b9s38phhl/pascha-doxa-short.mp3" length="0" type="audio/mpeg"/>
+      <guid>pascha-doxa</guid>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
+      <description>Pascha big doxa</description>
+    </item>
+
   </channel>
 </rss>
