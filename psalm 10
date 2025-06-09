@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Phil Byzantine Hymns</title>
+    <link>https://philbyzantine.github.io</link>
+    <description>Archiving an audio file</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Psalm 10</title>
+      <enclosure url="https://dl.dropboxusercontent.com/s/q25kvrx36ml22i74zqq9f/psalm-10.mpeg" length="0" type="audio/mpeg"/>
+      <guid>psalm-10</guid>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
+      <description>Psalm 10 audio recording</description>
+    </item>
+
+  </channel>
+</rss>
